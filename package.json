@@ -17,7 +17,7 @@
         "range-parser": "^1.2.0"
     },
     "devDependencies": {
-        "@dwebjs/ddrive": "@dwebjs/ddrive#master",
+        "@dwebjs/ddrive": "dwebjs/ddrive#master",
         "@dwebjs/resolve": "dwebjs/resolve#master",
         "@dwebjs/revelation": "dwebjs/revelation#master",
         "random-access-memory": "^3.0.0",
